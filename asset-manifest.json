@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flower-web/static/css/main.2e6f3eaa.css",
+    "main.js": "/Flower-web/static/js/main.a00d348a.js",
+    "static/js/453.66c962d7.chunk.js": "/Flower-web/static/js/453.66c962d7.chunk.js",
+    "index.html": "/Flower-web/index.html",
+    "main.2e6f3eaa.css.map": "/Flower-web/static/css/main.2e6f3eaa.css.map",
+    "main.a00d348a.js.map": "/Flower-web/static/js/main.a00d348a.js.map",
+    "453.66c962d7.chunk.js.map": "/Flower-web/static/js/453.66c962d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e6f3eaa.css",
+    "static/js/main.a00d348a.js"
+  ]
+}
