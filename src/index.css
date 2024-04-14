@@ -1,0 +1,29 @@
+a{
+
+text-decoration: none !important
+}
+
+.logo{
+  width: 80px;
+  margin-right: 20px;
+}
+.carousel-inner{
+  height:500px;
+  object-fit: cover;
+}
+.homeim{
+  height: 400px;
+  width: 400px;
+ 
+}
+.active_styles{
+  border-bottom: 2px solid #000;
+}
+@media screen and (max-width:600px){
+  .carousel-item img{
+    height: 300px;
+    
+
+  }
+
+}
